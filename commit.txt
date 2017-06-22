@@ -1,0 +1,11 @@
+commit af10b120367dd93194d062fe763fa85314d0148c
+Author: agiraldo <andres654@gmail.com>
+Date:   Wed Jun 21 22:32:16 2017 -0500
+
+    traducimos el mensaje de carga
+
+commit caac8ace2829520f509a5387fa5f90c379f8ddcf
+Author: agiraldo <andres654@gmail.com>
+Date:   Wed Jun 21 22:30:39 2017 -0500
+
+    Primer commit
